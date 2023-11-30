@@ -1,11 +1,1 @@
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-
+Xin chào các bạn mình là sinh viên K47 Trường Đại Học Đà Lạt
