@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/kubo_vn?t=35ZN4KOYTriHA-5cyVlgxA&s=09) 
 
-# 💻 Tech Stack:
+# 💻 TECHNOLOGY STACK:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HubertPhung&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -18,5 +18,3 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/phungnguyenhoaibo) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
