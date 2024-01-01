@@ -1,6 +1,6 @@
 # **SINH VIÊN ĐẠI HỌC ĐÀ LẠT K47** <{color: Red}>
-## Lớp CTK47A
-## Biết Sử Dụng : C++, C#, ...
+* Lớp CTK47A
+* Biết Sử Dụng : C++
 ### Phần Mềm Sử Dụng:
 * Visual Studio
 * Visual Code
