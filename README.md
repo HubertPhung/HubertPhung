@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<img src="https://raw.github/HubertPhung.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubHubertPhung.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
