@@ -1,8 +1,6 @@
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HubertPhung/HubertPhung/output/snake.svg" alt="Snake animation" />
+![](https://github.com/HubertPhung/HubertPhung/raw/output/dist/github-contribution-grid-snake.svg)
 
 ###
 
