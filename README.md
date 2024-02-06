@@ -1,7 +1,11 @@
 
+###
 
-![](https://github.com/HubertPhung/HubertPhung/raw/output/dist/github-contribution-grid-snake.svg)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 # **SINH VIÊN ĐẠI HỌC ĐÀ LẠT K47**
 * *Lớp CTK47A*
