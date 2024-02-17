@@ -1,11 +1,5 @@
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HubertPhung/HubertPhung/output/snake.svg" alt="Snake animation" />
-
-###
 
 # **SINH VIÊN ĐẠI HỌC ĐÀ LẠT K47**
 * *Lớp CTK47A*
