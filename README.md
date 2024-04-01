@@ -3,9 +3,6 @@
 
 # **SINH VIÊN ĐẠI HỌC ĐÀ LẠT K47**
 * *Lớp CTK47A*
-### Phần Mềm Sử Dụng:
-* Visual Studio
-* Visual Code
 
 ### Hello World
 ```C++
