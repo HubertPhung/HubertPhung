@@ -1,8 +1,7 @@
 
 
 
-# **SINH VIÊN ĐẠI HỌC ĐÀ LẠT K47**
-* *Lớp CTK47A*
+# **SINH VIÊN ĐẠI HỌC ĐÀ LẠT CTK47**
 
 ### Hello World
 ```C++
