@@ -13,13 +13,6 @@
   🎯 I'm currently **open to new opportunities** to apply my skills and grow within a dynamic team.
 </div>
 
-## 🚀 Quick Stats Overview
-
-<div align="center">
-  
-</div>
-
----
 
 ## 🛠️ My Technology Ecosystem
 
@@ -66,8 +59,8 @@
 ## 📊 Advanced GitHub Analytics
 
 <div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=HubertPhung&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <!-- <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=HubertPhung&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/> -->
 
   <h3>📈 Contribution Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HubertPhung&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
