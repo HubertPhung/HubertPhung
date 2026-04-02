@@ -94,30 +94,6 @@
 
 <div align="center">
 
-### 🌟 [Project Name 1: Scalable E-commerce Platform](https://github.com/HubertPhung/REPO_NAME_1) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HubertPhung&repo=REPO_NAME_1&theme=tokyonight)](https://github.com/HubertPhung/REPO_NAME_1)
-
-**Tech Stack:** React • Node.js • Express • MongoDB • Docker
-**Status:** 🚀 Production Ready | ⭐ 15+ Stars | 🍴 5+ Forks
-*A full-stack e-commerce solution with user authentication, product management, and payment integration. Focused on microservices architecture and responsive design.*
-
----
-
-### 🔥 [Project Name 2: Real-time Chat Application](https://github.com/HubertPhung/REPO_NAME_2) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HubertPhung&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/HubertPhung/REPO_NAME_2)
-
-**Tech Stack:** Vue.js • Spring Boot • PostgreSQL • WebSockets
-**Status:** 🚧 In Development | ⭐ 8+ Stars | 🍴 3+ Forks
-*An interactive chat application featuring real-time messaging, user presence indicators, and group chat functionality. Exploring Kafka for message queuing.*
-
----
-
-### ⚡ [Project Name 3: Data Analysis Dashboard](https://github.com/HubertPhung/REPO_NAME_3) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HubertPhung&repo=REPO_NAME_3&theme=tokyonight)](https://github.com/HubertPhung/REPO_NAME_3)
-
 **Tech Stack:** Python • Flask • Pandas • Matplotlib • D3.js
 **Status:** ✅ Complete | ⭐ 20+ Stars | 🍴 7+ Forks
 *A comprehensive dashboard for visualizing and analyzing complex datasets. Includes data ingestion, processing, and interactive chart generation.*
