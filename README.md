@@ -54,61 +54,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- TODO: Add your databases -->
 
----
-
-## 📊 Advanced GitHub Analytics
-
-<div align="center">
-  <!-- <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=HubertPhung&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/> -->
-
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HubertPhung&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-  <h3>🔥 Streak Statistics</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HubertPhung&theme=tokyonight&hide_border=true"/>
-
-  <h3>📅 Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/409ba5/HubertPhung" alt="Contribution Calendar" width="100%"/>
-
-  <h3>⚡ Recent Activity</h3>
-  <!--START_SECTION:activity-->
-  <!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity! -->
-  - 🗣️ Commented on [#123](https://github.com/HubertPhung/example-repo/issues/123) in [HubertPhung/example-repo](https://github.com/HubertPhung/example-repo)
-  - 🚀 Merged pull request [#45](https://github.com/HubertPhung/another-repo/pull/45) in [HubertPhung/another-repo](https://github.com/HubertPhung/another-repo)
-  - 🎉 Starred [an-awesome-project/library](https://github.com/an-awesome-project/library)
-  <!--END_SECTION:activity-->
-</div>
-
----
-
-## 🏗️ Project Showcase
-
-<div align="center">
-
-**Tech Stack:** Python • Flask • Pandas • Matplotlib • D3.js
-**Status:** ✅ Complete | ⭐ 20+ Stars | 🍴 7+ Forks
-*A comprehensive dashboard for visualizing and analyzing complex datasets. Includes data ingestion, processing, and interactive chart generation.*
-
-</div>
-
----
-
-## 🎯 Current Focus & Goals
-
-- 🔭 Working on: **[Your Latest Project or Feature]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Kubernetes & Advanced Cloud Deployment Strategies** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source projects related to Web Development or Cloud Computing**
-- 💬 Ask me about: **Full Stack Development, API Design, Database Optimization** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!** <!-- TODO: Add a fun fact -->
-
-### 🚀 2024 Goals
-- 📚 Publish 2 technical articles on a personal blog/platform.
-- 🌟 Contribute to 5+ open-source projects outside my personal scope.
-- 🎓 Obtain a new cloud certification (e.g., AWS Developer Associate).
-- 💡 Experiment with a new programming language or framework (e.g., Rust or Svelte).
-
----
 
 ## 🌐 Let's Connect & Collaborate
 
